@@ -1,2 +1,3 @@
-###DSA Question
-#It includes various questions on the **DSA** written in **C language**.
+# DSA Questions
+
+This repository contains a collection of questions on **Data Structures and Algorithms (DSA)** implemented in **C language**.
